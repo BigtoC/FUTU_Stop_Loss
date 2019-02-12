@@ -1,0 +1,24 @@
+﻿<futu_opend>
+	<!-- 监听地址,不填默认0.0.0.0 -->
+	<ip>0.0.0.0</ip>
+	<!-- API接口协议监听端口 -->
+	<api_port>11111</api_port>
+	<!-- API推送协议格式，0:pb, 1:json -->
+	<push_proto_type>1</push_proto_type>
+    <!-- API订阅数据推送频率控制，单位毫秒，目前不包括K线和分时，不设置则不限制频率-->
+    <!-- <qot_push_frequency>1000</qot_push_frequency> -->
+	<!-- Telnet监听端口 -->
+	<telnet_port>22222</telnet_port>
+	<!-- API协议加密私钥文件路径,不设置则不加密 -->
+	<!-- <rsa_private_key>D:\rsa</rsa_private_key> -->
+	<!-- 登录帐号 -->
+	<login_account>88888888</login_account>
+	<!-- 登录密码明文，密码密文存在情况下只使用密文 -->
+	<login_pwd>123456</login_pwd>
+	<!-- FutuOpenD语言，en：英文，chs：简体中文 -->
+	<lang>chs</lang>
+	<!-- 登录密码32位MD5加密16进制 -->
+	<!-- <login_pwd_md5>c67106312fd096e069b93ff5562fbdc4</login_pwd_md5> -->
+	<!-- 证书登录文件路径 -->
+	<!-- <login_cert_file>D:\Desktop\sig.txt</login_cert_file> -->
+</futu_opend>

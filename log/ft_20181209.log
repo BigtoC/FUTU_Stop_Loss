@@ -1,0 +1,3 @@
+2018-12-09 14:52:59,795 [open_context_base.py] _socket_reconnect_and_wait_ready:207: Start connecting: host=127.0.0.1; port=11111;
+2018-12-09 14:53:00,798 [open_context_base.py] on_error:307: Connect error: conn_id=1; err=WSAECONNREFUSED;
+2018-12-09 14:53:00,801 [open_context_base.py] _wait_reconnect:407: Wait reconnect in 8 seconds: host=127.0.0.1; port=11111;

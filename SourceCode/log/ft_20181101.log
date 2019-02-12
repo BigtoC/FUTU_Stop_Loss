@@ -1,0 +1,12 @@
+2018-11-01 19:49:08,496 [open_context_base.py] _socket_reconnect_and_wait_ready:207: Start connecting: host=127.0.0.1; port=11111;
+2018-11-01 19:49:09,501 [open_context_base.py] on_error:307: Connect error: conn_id=1; err=WSAECONNREFUSED;
+2018-11-01 19:49:09,503 [open_context_base.py] _wait_reconnect:407: Wait reconnect in 8 seconds: host=127.0.0.1; port=11111;
+2018-11-01 19:49:17,504 [open_context_base.py] _socket_reconnect_and_wait_ready:207: Start connecting: host=127.0.0.1; port=11111;
+2018-11-01 19:49:18,506 [open_context_base.py] on_error:307: Connect error: conn_id=2; err=WSAECONNREFUSED;
+2018-11-01 19:49:18,509 [open_context_base.py] _wait_reconnect:407: Wait reconnect in 8 seconds: host=127.0.0.1; port=11111;
+2018-11-01 19:49:33,602 [open_context_base.py] _socket_reconnect_and_wait_ready:207: Start connecting: host=127.0.0.1; port=11111;
+2018-11-01 19:49:33,603 [open_context_base.py] on_connected:289: Connected : conn_id=1; 
+2018-11-01 19:49:33,605 [open_context_base.py] _handle_init_connect:378: InitConnect ok: conn_id=1; info={'server_version': 103, 'login_user_id': 11328669, 'conn_id': 2983797000667019047, 'conn_key': '2037A232909468BE', 'keep_alive_interval': 10};
+2018-11-01 19:49:53,045 [open_context_base.py] _socket_reconnect_and_wait_ready:207: Start connecting: host=127.0.0.1; port=11111;
+2018-11-01 19:49:53,969 [open_context_base.py] on_connected:289: Connected : conn_id=1; 
+2018-11-01 19:49:53,971 [open_context_base.py] _handle_init_connect:378: InitConnect ok: conn_id=1; info={'server_version': 103, 'login_user_id': 11328669, 'conn_id': 16242396502994879524, 'conn_key': '28840E46909668D6', 'keep_alive_interval': 10};
