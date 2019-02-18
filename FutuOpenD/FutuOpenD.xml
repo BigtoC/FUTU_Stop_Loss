@@ -18,7 +18,7 @@
 	<!-- FutuOpenD语言，en：英文，chs：简体中文 -->
 	<lang>chs</lang>
 	<!-- 登录密码32位MD5加密16进制 -->
-	<!-- <login_pwd_md5>c67106312fd096e069b93ff5562fbdc4</login_pwd_md5> -->
+	<!-- <login_pwd_md5>c69126312fd396e06ab93ff55b2fb8a4</login_pwd_md5> -->
 	<!-- 证书登录文件路径 -->
 	<!-- <login_cert_file>D:\Desktop\sig.txt</login_cert_file> -->
 </futu_opend>
